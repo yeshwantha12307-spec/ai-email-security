@@ -59,5 +59,5 @@ pip install -r requirements.txt
 python -m streamlit run ai_email_security.py
 ## Screenshot
 
-![AI Email Security Dashboard](Screenshot 2026-03-16 212318.png)
+![AI Email Security Dashboard](<img width="322" height="636" alt="Screenshot 2026-03-16 212318" src="https://github.com/user-attachments/assets/3b7dde05-84c0-4fce-afdd-c71384c5cb1f" />)
 
