@@ -42,7 +42,8 @@ AI Email Security System is a machine learning-based application that detects sp
 The goal of this project is to demonstrate how machine learning and NLP can be used to improve email security by detecting spam and phishing attempts.
 ## Screenshot
 
-![Dashboard](screenshot.png)
+![Dashboard](<img width="322" height="636" alt="Screenshot 2026-03-16 212318" src="https://github.com/user-attachments/assets/3b7dde05-84c0-4fce-afdd-c71384c5cb1f" />
+)
 ## Demo
 
 Run the project locally using:
