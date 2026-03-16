@@ -57,4 +57,7 @@ Run the project locally using:
 
 pip install -r requirements.txt
 python -m streamlit run ai_email_security.py
+## Screenshot
+
+![AI Email Security Dashboard](Screenshot 2026-03-16 212318.png)
 
