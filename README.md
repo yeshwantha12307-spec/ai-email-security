@@ -1,5 +1,11 @@
 # AI Email Security System
 
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--learn-orange)
+![Framework](https://img.shields.io/badge/Framework-Streamlit-red)
+![License](https://img.shields.io/badge/License-MIT-green)
+# AI Email Security System
+
 ## Overview
 
 AI Email Security System is a machine learning-based application that detects spam and phishing emails automatically. The system analyzes email content using Natural Language Processing (NLP) techniques and classifies messages as spam or safe.
